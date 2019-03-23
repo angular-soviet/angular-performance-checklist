@@ -135,7 +135,7 @@ console.log(foo());
 **Tooling**
 - [Webpack](https://webpack.js.org) - предоставляет эффективную сборку с использованием [tree-shaking](#tree-shaking). После сборки приложения не экспортируется код, который не был использован. Таким образом код может быть помечен как dead code и удален с помощью Uglify.
 - [Rollup](https://github.com/rollup/rollup) - предоставляет сборку с использованием tree-shaking, за счет статических импортов модулей ES2015.
-- [Google Closure Compiler](https://github.com/google/closure-compiler) - предлагает множество оптимизаций и предоставляет возможность сборки. Изначально он был написан на Java, но с недавнего времени поддерживает и [версию для JavaScript](https://www.npmjs.com/package/google-closure-compiler-js).
+- [Google Closure Compiler](https://github.com/google/closure-compiler) - предлагает множество оптимизаций и предоставляет возможность сборки приложения. Изначально он был написан на Java, но с недавнего времени поддерживает и [версию для JavaScript](https://www.npmjs.com/package/google-closure-compiler-js).
 
 *Обратите внимание:* GCC еще не поддерживает `export *`. Однако функция важна для сборки Angular приложений из-за широкого использования "barrel" файлов.
 
