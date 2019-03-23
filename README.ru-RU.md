@@ -370,7 +370,7 @@ Server-side rendering решает эту проблему пре-рендери
 **Tooling**
 
 - [Angular Universal](https://github.com/angular/angular/tree/master/packages/platform-server) - Universal (изоморфная) JavaScript поддержка для Angular.
-- [Preboot](https://github.com/angular/preboot) - Библиотека для управлением переходом состояния (events, focus, data) страницы, сгенерированной на сервере, на страницу, отображаемую в браузере.
+- [Preboot](https://github.com/angular/preboot) - Библиотека для управления переноса состояния страницы (т.е. events, focus, data), которые были сгенерированы на сервере, на страницу, отображаемую в браузере
 
 **Resources**
 
