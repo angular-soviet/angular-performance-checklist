@@ -391,6 +391,7 @@ Server-side rendering решает эту проблему пре-рендери
 
 - ["Change Detection in Angular"](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
 - ["Everything you need to know about change detection in Angular"](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
+
 #### Detaching the Change Detector
 
 Другой реализацией кастомного механизма отслеживания изменений является открепление и прикрепления отслеживания изменений (CD) для конкретного компонента. Как только мы открепляем CD, Angular не будет делать проверки для компонента и всей его низлежащей структуры.
