@@ -541,7 +541,7 @@ Angular извлекает выражения в шаблонах после к�
 
 **Полезные материалы**
 - [quick-execution](https://angular.io/guide/template-syntax#quick-execution) - официальная документация по выражениям в шаблонах
-- [Increasing Performance - more than a pipe dream](https://youtu.be/I6ZvpdRM1eQ) - ng-conf видеозапись на youtube. Использование pipe вместо функции в интерполяции строки
+- [Increasing Performance - more than a pipe dream](https://youtu.be/I6ZvpdRM1eQ) - ng-conf видеозапись на youtube. Использование pipe вместо функции для интерполяции строки
 
 # Conclusion
 
