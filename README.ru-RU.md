@@ -291,7 +291,7 @@ Application Shell - это минимальный пользовательски
 
 **Tooling**
 
-- [Angular Service Worker](https://angular.io/guide/service-worker-intro) - стремится автоматизировать процесс управления механизмами Service Workers. Он включает в себя Service Worker для кэширования статичных ресурсов и иснтрумент для [генереции application shell](https://developers.google.com/web/updates/2015/11/app-shell?hl=en).
+- [Angular Service Worker](https://angular.io/guide/service-worker-intro) - стремится автоматизировать процесс настройки Service Workers. Он включает в себя Service Worker для кэширования статичных ресурсов и инструмент для [генерации application shell](https://developers.google.com/web/updates/2015/11/app-shell?hl=en).
 - [Angular Universal](https://github.com/angular/angular/tree/master/packages/platform-server) - поддержка Universal JavaScript (изоморфный, испульзуемый для сервера и клиента JavaScript)  для Angular.
 
 **Resources**
