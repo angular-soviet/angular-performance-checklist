@@ -302,7 +302,7 @@ The application shell is the minimum user interface that we show to the users in
 
 ### Use Service Workers
 
-Мы думать о Service Worker, как о HTTP-прокси, который находится в браузере. Все запросы, которые отправляются клиентом, перхватываются Service Worker. Он может обработать их или передать дальше по сети.
+Мы думаем о Service Worker, как о HTTP-прокси, который находится в браузере. Все запросы, которые отправляются клиентом, перехватываются Service Worker. Он может обработать их или передать дальше по сети.
 
 **Tooling**
 
