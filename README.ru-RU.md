@@ -259,7 +259,7 @@ Resource pre-fetching is a great way to improve the user experience. We can eith
 **Tooling**
 
 - [Webpack](https://github.com/webpack/webpack) - обеспечивает асинхронную загрузку модулей
-- [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - стратегия предварительной загрузки маршрутизатора, которая обеспечивает автоматическую ленивую загрузку модулей, связанные со всеми видимыми ссылками на экране
+- [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - стратегия предварительной загрузки роутера, которая обеспечивает автоматическую ленивую загрузку модулей, связанных со всеми видимыми ссылками на экране
 
 ### Don't Lazy-Load the Default Route
 
