@@ -242,7 +242,7 @@ If `MyService` is not injected in any component/service, then it will not be inc
 
 **Resources**
 
-- ["Более лучшее сжатие, чем Gzip с использованием Brotli"](https://hacks.mozilla.org/2015/11/better-than-gzip-compression-with-brotli/)
+- ["Лучшее сжатие, чем Gzip с использованием Brotli"](https://hacks.mozilla.org/2015/11/better-than-gzip-compression-with-brotli/)
 - ["Сборка Angular приложения в 2.5X меньше вместе с Google Closure Compiler"](http://blog.mgechev.com/2016/07/21/even-smaller-angular2-applications-closure-tree-shaking/)
 
 ### Pre-fetching Resources
