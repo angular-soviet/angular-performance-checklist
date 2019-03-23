@@ -482,7 +482,7 @@ The default value of the `pure` property is `true`.
 
 Директива `*ngFor` используется для отрисовки коллекции.
 
-#### Use trackBy option
+#### Use `trackBy` option
 
 По умолчанию `*ngFor` сравнивает объекты по ссылке.
 
